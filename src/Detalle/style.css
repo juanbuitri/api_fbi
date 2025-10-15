@@ -1,0 +1,10 @@
+.detalle-container {
+  padding: 20px;
+  text-align: center;
+}
+
+.detalle-container img {
+  width: 300px;
+  border-radius: 12px;
+  margin-top: 15px;
+}

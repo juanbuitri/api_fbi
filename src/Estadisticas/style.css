@@ -1,0 +1,9 @@
+.estadisticas-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.estadisticas-container h1 {
+  color: #002244;
+  margin-bottom: 30px;
+}
